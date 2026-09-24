@@ -1,0 +1,14 @@
+/Users/rahimova/w3d5/bin/Debug/net10.0/w3d5
+/Users/rahimova/w3d5/bin/Debug/net10.0/w3d5.deps.json
+/Users/rahimova/w3d5/bin/Debug/net10.0/w3d5.runtimeconfig.json
+/Users/rahimova/w3d5/bin/Debug/net10.0/w3d5.dll
+/Users/rahimova/w3d5/bin/Debug/net10.0/w3d5.pdb
+/Users/rahimova/w3d5/obj/Debug/net10.0/w3d5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahimova/w3d5/obj/Debug/net10.0/w3d5.AssemblyInfoInputs.cache
+/Users/rahimova/w3d5/obj/Debug/net10.0/w3d5.AssemblyInfo.cs
+/Users/rahimova/w3d5/obj/Debug/net10.0/w3d5.csproj.CoreCompileInputs.cache
+/Users/rahimova/w3d5/obj/Debug/net10.0/w3d5.dll
+/Users/rahimova/w3d5/obj/Debug/net10.0/refint/w3d5.dll
+/Users/rahimova/w3d5/obj/Debug/net10.0/w3d5.pdb
+/Users/rahimova/w3d5/obj/Debug/net10.0/w3d5.genruntimeconfig.cache
+/Users/rahimova/w3d5/obj/Debug/net10.0/ref/w3d5.dll
